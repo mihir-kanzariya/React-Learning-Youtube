@@ -1,6 +1,4 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# React-Learning-Youtube
 
 ### Getting Started
 
@@ -10,16 +8,13 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/mihir-kanzariya/React-Learning-Youtube.git
+> cd React-Learning-Youtube
 > npm install
-> npm start
 ```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Add [youtube API](https://developers.google.com/youtube/v3/getting-started) key in `src/config.js`.
 
 ```
-> npm install
 > npm start
 ```
+Magic happens on `localhost:8080`.
