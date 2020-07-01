@@ -6,7 +6,7 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/mihir-kanzariya/React-Learning-Youtube.git
+> git clone https://github.com/mihir-kanzariya/React-Youtube.git
 > cd React-Learning-Youtube
 > npm install
 ```
